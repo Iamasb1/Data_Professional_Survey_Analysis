@@ -11,7 +11,7 @@ This project uses Microsoft Power BI to analyze survey data collected from data 
 - Data analysis and reporting
 
 ## Dashboard Features
-
+![Power BI Dashboard](Dashboard2.png)
 The dashboard includes several visualizations to present the survey data, including:
 
 - Donut charts
